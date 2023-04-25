@@ -2,7 +2,7 @@
   "app": "npx ts-node bin/sdlc-organization.ts",
   "context": {
     "@aws-cdk/core:newStyleStackSynthesis": true,
-    "github_alias": "legionconnect",
+    "github_alias": "legion-connect",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "domain": "legionconnect.au",
